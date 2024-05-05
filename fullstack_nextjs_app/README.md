@@ -3,5 +3,5 @@
 ## TECHNOLOGIES USED 
 - ZOD, Mongoose - validation & schema
 - TypeScript
-- CSS - Tailwind, Shadcn
+- Tailwind, Shadcn, resend , 
 - Database - MongoDB Atlas
